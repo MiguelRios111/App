@@ -1,4 +1,4 @@
-.body{font-size:60px}
+body{font-size:60px}p{font-size:.9em}h1{font-size:2em}h2{font-size:1.4em}#pie{font-size:1.2em}.epigrafes{font-size:1.1em}@media screen and (min-width:800px){body{font-size:100%}}@media screen and (min-width:1200px){body{font-size:120%}}
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
